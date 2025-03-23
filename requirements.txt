@@ -199,5 +199,6 @@ wheel==0.43.0
 widgetsnbextension==4.0.13
 wrapt==1.17.0
 wsproto==1.2.0
+xgboost==3.0.0
 zope.interface==6.4.post2
 zstandard==0.23.0
